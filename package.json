@@ -1,0 +1,33 @@
+{
+  "name": "next-redux-wrapper-store-propagation-error",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next -p 3100",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "cssnano": "^4.1.10",
+    "next": "^9.1.7",
+    "postcss-calc": "^7.0.1",
+    "postcss-cli": "^7.1.0",
+    "postcss-custom-media": "^7.0.8",
+    "postcss-import": "^12.0.1",
+    "postcss-import-webpack-resolver": "^1.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-mixins": "^6.2.3",
+    "postcss-nested": "^4.2.1",
+    "postcss-nested-ancestors": "^2.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-rem": "^1.1.5",
+    "postcss-reporter": "^6.0.1",
+    "postcss-simple-vars": "^5.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-jsx-plugin-postcss": "^2.0.1"
+  },
+  "devDependencies": {},
+  "author": "Cully Larson <cully.larson@gmail.com>"
+}
